@@ -8,7 +8,7 @@
 2. [Python](https://github.com/jesse-anderson/Python)
 3. [MATLAB](https://github.com/jesse-anderson/MATLAB)
 4. [R](https://github.com/jesse-anderson/R)
-5. 5. [Julia]()
+5. [Julia]()
 <!---
 jesse-anderson/jesse-anderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
