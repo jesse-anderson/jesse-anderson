@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesse-anderson
 - 👀 I’m interested in machine learning, biochemical engineering, automation, and process engineering.
-- 🌱 I’m currently learning Python[Intermediate->Advanced].
+- 🌱 I’m currently learning C++[Beginner->Intermediate].
 - 💞️ I’m looking to collaborate on automation projects.
 - 📫 
 # Table of Contents
