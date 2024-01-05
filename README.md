@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesse-anderson
 - 👀 I’m interested in machine learning, biochemical engineering, automation, and process engineering.
-- 🌱 I’m currently learning C++[Beginner->Intermediate].
+- 🌱 I’m currently enrolled in the Master's in Computer Science program at University of Illinois at Urbana-Champaign.
 - 💞️ I’m looking to collaborate on automation projects.
 - 📫 
 # Table of Contents
